@@ -24,7 +24,7 @@ A simple Grocery Store Management System built using **Python**, **MySQL**, and 
 
 ## 🧰 Technologies Used
 
-- Python 3.x
+- Python 3.13.3
 - MySQL
 - `mysql-connector-python`
 - Pandas
